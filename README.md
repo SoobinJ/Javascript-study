@@ -28,3 +28,4 @@
 - 자바스크립트로 요소 추가하기
   - createElement() -> 요소를 만듦
   - appendChild() -> 선택한 요소 안에 자식요소를 추가함
+- 강의 정리 노트 https://www.notion.so/Background-98afa5ea75614cbb8fcb7213f9e173c2
