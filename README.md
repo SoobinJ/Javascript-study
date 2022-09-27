@@ -21,3 +21,10 @@
 - math module
 - 배열에 저장된 명언을 랜덤으로 보여주기
 - 강의 정리 노트 https://www.notion.so/Quotes-28776fbd476b48e58dd92db40ffd05e8
+
+## Background ex
+
+- math module
+- 자바스크립트로 요소 추가하기
+  - createElement() -> 요소를 만듦
+  - appendChild() -> 선택한 요소 안에 자식요소를 추가함
