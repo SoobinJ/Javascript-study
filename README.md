@@ -47,3 +47,11 @@
     - filter는 주어진 함수의 테스트를 통과하는 모든 요소를 모아 새로운 배열을 반환함
     - 각 요소를 시험할 함수가 true를 반환하면 요소를 유지하고, false를 반환하면 버림
 - 강의 정리 노트 https://www.notion.so/TO-Do-List-5cd40f7dacdc4c6385534ec00871ee8a
+
+## Weather ex
+
+- 사용자의 위치,위치의 날씨, 위치의 온도를 보여주기
+- navigator.geolocation : 사용자의 지리적 위치 정보를 확인하는 API를 정의함
+- getCurrentPosition 함수 : 처음 인자로 GPS 위치 조회 동의 시 실행할 함수, 두번째 인자는 에러, 세번째 인자는 옵션을 받음
+- API 연동 -> 날씨관련 정보를 받아오기
+- 강의 정리 노트 https://www.notion.so/Weather-9f5217bb97ac4af0bb84e9f1f7ecd27e
